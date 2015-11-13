@@ -1,5 +1,7 @@
 # DataRepresentationProject
 
+Jakub "Ash" Michalek g00316039
+
 ## Main concept
 
 * Penalty points issued in Ireland
